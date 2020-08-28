@@ -19,5 +19,6 @@
             </div>
         </div>
     </div>
+	<h2> home home</h2>
 </div>
 @endsection
